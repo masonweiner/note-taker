@@ -11,7 +11,7 @@ This is an app that lets users put in notes and save them to the page.
 
 ## Installation
 
-Open webpage https://frozen-cove-23998.herokuapp.com/ and click "Get Started".
+Navigate to https://secret-tundra-80470.herokuapp.com/ and click "Get Started". Then start adding and saving notes.
 
 ## Contact
 
